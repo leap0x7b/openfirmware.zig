@@ -1,0 +1,3 @@
+.b    Raw    'UNIX'   'tbxi'  "bootstrap"
+.elf  Raw    'UNIX'   'boot'  "bootstrap"
+*     Ascii  '????'   '????'  "Text file"
